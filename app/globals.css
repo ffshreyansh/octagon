@@ -51,3 +51,8 @@
     pointer-events: none;
 }
 
+@media (max-width: 440px){
+  .gg{
+    padding: 10px;
+  }
+}
